@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
 
 
   def hello_world
-    render
+    render "hello"
   end
 
 end
