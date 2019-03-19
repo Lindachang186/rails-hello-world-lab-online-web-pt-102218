@@ -135,3 +135,10 @@ Processing by ApplicationController#hello_world as HTML
 Completed 200 OK in 382ms (Views: 371.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/hello_world" for 50.205.85.131 at 2019-03-19 22:31:25 +0000
+Processing by ApplicationController#hello_world as HTML
+  Rendering static/hello.erb within layouts/application
+  Rendered static/hello.erb within layouts/application (0.5ms)
+Completed 200 OK in 12ms (Views: 11.7ms | ActiveRecord: 0.0ms)
+
+
