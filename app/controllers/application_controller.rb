@@ -8,5 +8,5 @@ class ApplicationController < ActionController::Base
   def hello_world
     render
   end
-  
+
 end
